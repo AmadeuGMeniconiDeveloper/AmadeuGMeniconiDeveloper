@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AmadeuGMeniconiDeveloper
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React.js and Next.js
+- 😄 Pronouns: He/Him
