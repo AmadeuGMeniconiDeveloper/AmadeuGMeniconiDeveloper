@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My story
+## About my Journey
 **[2020] -** After graduating from Architecture School in <em>Universidade de Evora</em>, Portugal, in 2020, I had a change of heart and started pursuing a software development career.
 After learning languages like <strong>Python</strong>, <strong>C</strong>, and <strong>Java</strong> through online courses, I decided to enroll in ISTEC (Superior Institute of Advanced Technologies of Lisbon), Portugal in 2021 to start learning web & mobile software development.
 ## Now
