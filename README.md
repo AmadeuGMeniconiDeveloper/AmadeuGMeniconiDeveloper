@@ -10,8 +10,6 @@ After learning languages like <strong>Python</strong>, <strong>C</strong>, and <
     <img src="https://skillicons.dev/icons?i=linux,bash,git,vscode,html,css,tailwind,js,ts,figma,react,redux,nextjs,nodejs,express,webpack,sqlite,mysql,postgres,mongodb,netlify,docker,npm,yarn&perline=12" />
 </p>
 
-- 😄 Pronouns: He/Him
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeuGMeniconiDeveloper&bg_color=151b23&border_color=3d444d&text_color=f0f6fc&show_icons=true&icon_color=365D3E&title_color=ffffff&text_bold=false&card_width=1050)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeuGMeniconiDeveloper&bg_color=151b23&border_color=3d444d&text_color=f0f6fc&title_color=ffffff&card_width=1050&langs_count=5&layout=compact&hide=objectivec)](https://github.com/anuraghazra/github-readme-stats)
