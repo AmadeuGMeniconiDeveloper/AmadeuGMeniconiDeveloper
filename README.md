@@ -8,7 +8,7 @@ After learning languages like <strong>Python</strong>, <strong>C</strong>, and <
 
 - 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeuGMeniconiDeveloper&bg_color=283733&border_color=365D3E&text_color=AEBAC7&show_icons=true&icon_color=365D3E&title_color=AEBAC7&text_bold=false&card_width=1050)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmadeuGMeniconiDeveloper&bg_color=151b23&border_color=365D3E&text_color=AEBAC7&show_icons=true&icon_color=365D3E&title_color=AEBAC7&text_bold=false&card_width=1050)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeuGMeniconiDeveloper&bg_color=283733&border_color=365D3E&text_color=AEBAC7&title_color=AEBAC7&card_width=1050&langs_count=5&layout=compact&hide=objectivec)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmadeuGMeniconiDeveloper&bg_color=151b23&border_color=365D3E&text_color=AEBAC7&title_color=AEBAC7&card_width=1050&langs_count=5&layout=compact&hide=objectivec)](https://github.com/anuraghazra/github-readme-stats)
 
