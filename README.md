@@ -8,7 +8,7 @@ After learning languages like <strong>Python</strong>, <strong>C</strong>, and <
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,bash,git,vscode,html,css,tailwind,js,ts,figma,react,redux,nextjs,nodejs,express,webpack,sqlite,mysql,postgres,mongodb,netlify,heroku,docker,npm,yarn" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,bash,git,vscode,html,css,tailwind,js,ts,figma,react,redux,nextjs,nodejs,express,webpack,sqlite,mysql,postgres,mongodb,netlify,heroku,docker,npm,yarn&perline=3" />
   </a>
 </p>
 
