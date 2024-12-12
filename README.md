@@ -7,9 +7,7 @@ After learning languages like <strong>Python</strong>, <strong>C</strong>, and <
 **[2023] -** Working as a indie full stack developer. 
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ubuntu,bash,git,vscode,html,css,tailwind,js,ts,figma,react,redux,nextjs,nodejs,express,webpack,sqlite,mysql,postgres,mongodb,netlify,docker,npm,yarn&perline=12" />
-  </a>
 </p>
 
 - 😄 Pronouns: He/Him
